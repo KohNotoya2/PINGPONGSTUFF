@@ -1,0 +1,37 @@
+body {
+    text-align: center;
+    background-size: cover;
+}
+
+.heading button {
+    float: right;
+    border: 3px solid white;
+}
+
+.heading h1 {
+    display: inline;
+}
+
+.heading {
+    width: 100%;
+    text-align: left;
+}
+
+.modal-dialog {
+    width: 90%;
+    font-size: 20px;
+}
+
+#canvas {
+    border: 3px solid black;
+    border-radius: 15px;
+    box-shadow: 3px 4px 5px black;
+}
+
+.copy_right_footer {
+    bottom: 0;
+    line-height: 3;
+    letter-spacing: 1px;
+    background-color: grey;
+    color: white;
+}
